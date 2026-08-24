@@ -1,5 +1,5 @@
-## 👋 Hi, I'm @eageyren
-## 📮 eageyren1211@gamil.com
+#### 👋 Hi, I'm @eageyren
+#### 📮 eageyren1211@gamil.com
 
 ## My GitHub Stats
 
